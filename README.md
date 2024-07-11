@@ -7,3 +7,10 @@ acrescente o comando que voce quer<br>
 apois reinicie o sevidor apache por mudar a versao de php e voltar apara a versao atual<br>
 
 pasta: /php83/ é o equivalente a versao do php que esta usando php 8.3<br>
+<br>
+<br>
+<br>
+<br>
+
+
+fonte: https://brianshim.com/webtricks/restart-php-godaddy-shared-hosting/

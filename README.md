@@ -1,0 +1,1 @@
+# alterar-php.ini-da-godaddy

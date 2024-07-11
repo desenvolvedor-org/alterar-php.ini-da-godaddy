@@ -1,4 +1,4 @@
-# alterar-php.ini-da-godaddy
+# Como alterar php.ini do hosting compartilhado da godaddy
 
 ## precisa entrar pela conexao SFTP e a pasta inicial deve ser a "/" ou o inicio.<br><br>
 
